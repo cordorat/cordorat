@@ -1,27 +1,9 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=ffffff&center=true&vCenter=true&width=1000&lines=👋+Hi+there!%2C+I'm+David+Córdoba" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer+from+Colombia" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=ffffff&center=true&vCenter=true&width=1000&lines=👋+Hi+there!%2C+I'm+David" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+Full+Stack+developer" alt="Typing SVG" /></a>
+
 
 <p align="center">🌐 I'm a developer focused on building clean, scalable, and user-friendly applications. I enjoy working with modern technologies and learning something new every day. Welcome to my GitHub! 💻</p>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
-</div>
 
 <br>
 
@@ -32,15 +14,15 @@
 
 - 🔭 I’m currently working on **academic projects**.
 
-- 🌱 I’m currently learning **DevOps**, **AWS**, **Docker**, and <br>**Cloud Computing**
+- 🌱 I’m currently learning **DevOps**, **AWS**, **Docker**, and <br>**Cloud Computing**.
 
-- 💬 Ask me about **Java, Python, Django**
+- 💬 Ask me about **Java, Python and Django!**
 
-- 📫 How to reach me **davidcordobap22@gmail.com**
+- 📫 Email me! :D   **davidcordobap22@gmail.com**
 
 <br>
 
-<h2 align="left">Languages and Tools:</h3>
+<h2 align="left">Tech Stack</h3>
 
 - Backend
 <p align="left">
@@ -77,13 +59,19 @@
   </a>
 </p>
 
+<h2 style="border-bottom: none;">GitHub Stats</h2>
 
-<h2 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cordorat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" style="max-width: 100%; height: auto;" alt="GitHub Stats"/>
+</div>
+
+
+<h2 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cordorat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cordorat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
 </p>
 
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
