@@ -12,9 +12,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **academic projects**.
+- 🔭 I’m currently working on **personal projects** and **corporative projects**.
 
-- 🌱 I’m currently learning **DevOps**, **AWS**, **Docker**, and <br>**Cloud Computing**.
+- 🌱 I’m currently learning **DevOps**, and <br>**Cloud Computing**.
 
 - 💬 Ask me about **Java, Python and Django!**
 
