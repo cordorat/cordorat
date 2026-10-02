@@ -12,7 +12,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **personal projects** and **corporative projects**.
+- 🔭 I’m currently working on **corporative projects**.
+
+- 🌱 I’m currently learning about **AI Engineering**, and <br>**Machine Learning**.
+
+- 💬 Ask me about **Java, Python and Django!**
 
 - 📫 Email me! :D   **davidcordobap22@gmail.com**
 
