@@ -14,10 +14,6 @@
 
 - 🔭 I’m currently working on **personal projects** and **corporative projects**.
 
-- 🌱 I’m currently learning **DevOps**, and <br>**Cloud Computing**.
-
-- 💬 Ask me about **Java, Python and Django!**
-
 - 📫 Email me! :D   **davidcordobap22@gmail.com**
 
 <br>
